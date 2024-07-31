@@ -3,7 +3,7 @@ from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
 import csv
 import asyncio
-import config
+import config.local
 
 
 # Replace these with your own values
